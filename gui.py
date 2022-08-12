@@ -100,7 +100,7 @@ class MainMenu(Menu):
                         ]
         self.texts = [
                       Text('Ray Casting Demonstraion', 50, 'white', (self.screen_width//3,self.screen_height//3), self.text_sprites, font=self.font_path),
-                      Text('By Asaf Brandwain', 30, 'white', (self.screen_width//3,self.screen_height//3 + 60), self.text_sprites, font=self.font_path)
+                      #Text('By Asaf Brandwain', 30, 'white', (self.screen_width//3,self.screen_height//3 + 60), self.text_sprites, font=self.font_path)
                     ]
         
         self.num_cols = num_cols
