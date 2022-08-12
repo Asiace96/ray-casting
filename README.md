@@ -9,7 +9,7 @@ On the right side of the screen you can see the "3D image" drawn from a first pe
 
 ### Notes
 - Reused some of the code with modifications from my path-finding-visualizer, so might add the maze generation algorithms here.  
-- Source matrial I based myself on - https://lodev.org/cgtutor/raycasting.html - here they disscuss on implementing the algorithm using vector maths which is more elegant but decided on using angle directly because I found it simpler - this guy explains it well - https://www.youtube.com/c/3DSage.  
+- Source material I based myself on - https://lodev.org/cgtutor/raycasting.html - here they disscuss on implementing the algorithm using vector maths which is more elegant but decided on using angle directly because I found it simpler - this guy explains it well - https://www.youtube.com/c/3DSage.  
   
 ### To Do:
 - Add texturing to the blocks/floor/sky and some fun mechanics from path-finding-visualizer in the future.
