@@ -3,7 +3,7 @@ A simple interactive program to demonstrate how ray casting works using a DDA (D
 
 ![](ray-case-gif-demo.gif)  
   
-<img src="ray-case-gif-demo.gif" align="left"/>
+<img src="ray-case-gif-demo.gif" align="center"/>
 
 Features 3 different settings to decide on a map size, and the ability to move the player and place walls to play around and see the algorithm at work.  
 On the left side of the screen you can see the player (yellow dot) and his line of sight with the green lines - these are the casted rays. There are a 120 rays with a FOV of 60 degrees.  
